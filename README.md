@@ -24,7 +24,7 @@ This project can be extended to include more features, such as a card payment sy
 1. Clone the Repository If you have Git installed, you can clone the project repository using the following command:
 
 ```bash
-git clone https://github.com/yourusername/coffee-vending-machine.git
+git clone https://github.com/swanpyaethewalker/coffeevendingmachine.git
 ```
 Alternatively, you can download the project as a ZIP file and extract it.
 
